@@ -1,0 +1,34 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.4.28)  13 MAY 2016 17:45
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/home/kellekai/Dokumente/uni/AA_Master/BARCELONA/MASTERTHESIS/Fortran/ExpSeri
+es2/alephDV/data/test
+
+(/home/kellekai/Dokumente/uni/AA_Master/BARCELONA/MASTERTHESIS/Fortran/ExpSerie
+s2/alephDV/data/test.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+\gptboxheight=\skip41
+\gptboxwidth=\skip42
+\gptboxtext=\box26
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 126.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 126.
+Missing character: There is no s in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.126     \gplbacktext
+                       
+Here is how much of TeX's memory you used:
+ 28 strings out of 493029
+ 647 string characters out of 6136234
+ 53056 words of memory out of 5000000
+ 3663 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 22i,5n,19p,176b,159s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+!  ==> Fatal error occurred, no output PDF file produced!
